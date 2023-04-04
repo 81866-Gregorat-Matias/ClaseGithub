@@ -1,0 +1,33 @@
+
+J
+java:S3740m"/Provide the parametrized type for this generic.(šÄË³üÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òĞâè
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¦¯”çùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Òà´Ç
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€İÔÂ
+K
+java:S1172".Remove this unused method parameter "pFiltro".(€İÔÂ8ì°°Éò0
+X	java:S125+"<This block of commented-out lines of code should be removed.(ÛœÑÙ8î°°Éò0
+h	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èºÏôøÿÿÿÿ
+D
+java:S2140C")Use "java.util.Random.nextInt()" instead.(•¶Şşÿÿÿÿ
+K
+java:S1905C")Remove this unnecessary cast to "double".(•¶Şşÿÿÿÿ8„Á¢Éò0
+<
+java:S1110C"!Remove these useless parentheses.(•¶Şşÿÿÿÿ
+C
+java:S1125C"(Remove the unnecessary boolean literals.(•¶Şşÿÿÿÿ
+?
+java:S2140F")Use "java.util.Random.nextInt()" instead.(¶¦Ìê
+F
+java:S1905F")Remove this unnecessary cast to "double".(¶¦Ìê8ŞÁ¢Éò0
+D
+java:S2140I")Use "java.util.Random.nextInt()" instead.(§‹¸Ïúÿÿÿÿ
+Q	java:S125L"<This block of commented-out lines of code should be removed.(İáÂğ
+h	java:S100X"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³´Ã‡øÿÿÿÿ
+u
+java:S6201\"XReplace this instanceof check and cast with 'instanceof CuentaInversion cuentainversion'(ù°àÜ8ãÁ¢Éò0
+V	java:S125c"<This block of commented-out lines of code should be removed.(õı¨Åúÿÿÿÿ
+c	java:S100k"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÇã§
+=
+java:S1659"!Declare "der" on a separate line.(åã³„ıÿÿÿÿ
